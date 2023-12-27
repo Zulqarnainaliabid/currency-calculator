@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872756273255",
+    "project_id": "currencycalc-19909",
+    "storage_bucket": "currencycalc-19909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872756273255:android:155a12ca8a056e09e334c2",
+        "android_client_info": {
+          "package_name": "com.example.currencycalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaL1pEy4iFT_3jW6iHu2N6c_xZ-mMVghI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
